@@ -1,7 +1,7 @@
 # OnlineKhabarAdBlock
 Custom filter list that blocks the 'hundreds' of annoying ads on the onlinekhabar website which cannot be blocked by uBlock.
 
-1. Install uBlock Origin from the extension store for your browser https://github.com/gorhill/uBlock
+1. Install uBlock Origin from the extension store of your browser https://github.com/gorhill/uBlock
     
 2. Open the Dashboard
 
