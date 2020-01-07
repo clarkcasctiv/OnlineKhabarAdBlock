@@ -1,0 +1,26 @@
+! 1/7/2020 https://www.onlinekhabar.com
+www.onlinekhabar.com##.okam-device-desktop.home-top-header.okam-ad-position-wrap
+www.onlinekhabar.com###okam-ad-523
+www.onlinekhabar.com##.main_story_sectn.bg__lightgrey-x-2 > .ok__container > .has_side-bar.ok__news--category > .side__add
+www.onlinekhabar.com###okam-ad-64
+www.onlinekhabar.com##section.ok__news--sectn.section:nth-of-type(2) > .ok__container > .has_side-bar.ok__news--category > .side__add
+www.onlinekhabar.com###okam-ad-85
+www.onlinekhabar.com##.ok__news--sectn.bg__lightgrey-x-2.section > .ok__container > .has_side-bar.ok__news--category > .side__add
+www.onlinekhabar.com##.okam-device-mobile-desktop.home-above-desh-row.okam-ad-position-wrap
+www.onlinekhabar.com##[href="http://nepallife.com.np/"]
+www.onlinekhabar.com###okam-ad-336
+www.onlinekhabar.com##div.ok__container:nth-of-type(10) > .add__fullwidth
+www.onlinekhabar.com##div.ok__container:nth-of-type(11) > .add__fullwidth
+www.onlinekhabar.com##.okam-device-mobile-desktop.home-after-business-left.okam-ad-position-wrap
+www.onlinekhabar.com##.add__top--head
+www.onlinekhabar.com###main > .ok__container
+www.onlinekhabar.com##.nws__title--card > .ok__container
+www.onlinekhabar.com##div.colspan3.col:nth-of-type(1) > .left_add
+www.onlinekhabar.com##div.colspan3.col:nth-of-type(3) > .left_add
+www.onlinekhabar.com##div.colspan3.col:nth-of-type(7) > .left_add
+www.onlinekhabar.com##div.colspan3.col:nth-of-type(9) > .left_add
+www.onlinekhabar.com##div.square.side__add--wrap:nth-of-type(1)
+www.onlinekhabar.com##.ok18-single-post-content-wrap.main__read--content.colspan3.col > .okam-device-mobile-desktop.single-inbetween-stories.okam-ad-position-wrap
+www.onlinekhabar.com##.okam-device-desktop.single-sidebar2.okam-ad-position-wrap
+www.onlinekhabar.com##div.colspan3.col:nth-of-type(11) > .left_add
+www.onlinekhabar.com##.ok_rb_addWrap
