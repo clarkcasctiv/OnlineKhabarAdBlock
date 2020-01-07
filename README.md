@@ -12,3 +12,6 @@ Custom filter list that blocks the 'hundreds' of annoying ads on the onlinekhaba
 4. Paste the filters from filters.txt
 
 5. Click on Apply changes
+
+
+Note: The white screen that appears before loading the page is due to the blocking of ad.

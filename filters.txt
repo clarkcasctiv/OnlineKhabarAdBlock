@@ -7,7 +7,6 @@ www.onlinekhabar.com##section.ok__news--sectn.section:nth-of-type(2) > .ok__cont
 www.onlinekhabar.com###okam-ad-85
 www.onlinekhabar.com##.ok__news--sectn.bg__lightgrey-x-2.section > .ok__container > .has_side-bar.ok__news--category > .side__add
 www.onlinekhabar.com##.okam-device-mobile-desktop.home-above-desh-row.okam-ad-position-wrap
-www.onlinekhabar.com##[href="http://nepallife.com.np/"]
 www.onlinekhabar.com###okam-ad-336
 www.onlinekhabar.com##div.ok__container:nth-of-type(10) > .add__fullwidth
 www.onlinekhabar.com##div.ok__container:nth-of-type(11) > .add__fullwidth
@@ -24,3 +23,9 @@ www.onlinekhabar.com##.ok18-single-post-content-wrap.main__read--content.colspan
 www.onlinekhabar.com##.okam-device-desktop.single-sidebar2.okam-ad-position-wrap
 www.onlinekhabar.com##div.colspan3.col:nth-of-type(11) > .left_add
 www.onlinekhabar.com##.ok_rb_addWrap
+
+! 1/7/2020 https://english.onlinekhabar.com
+english.onlinekhabar.com##.top-section > .clearfix.centralizer > aside
+
+! 1/7/2020 https://www.onlinekhabar.com
+www.onlinekhabar.com##.okam-device-desktop.entertainment-after-trending.okam-ad-position-wrap
