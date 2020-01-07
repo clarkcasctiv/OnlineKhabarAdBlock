@@ -6,5 +6,5 @@ Customer filter list that blocks the hundreds of annoying ads on the onlinekhaba
     
 2. Open the Dashboard
 3. Click on My Filters
-4. Paste the filters
+4. Paste the filters from filters.txt
 5. Click on Apply changes
