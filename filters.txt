@@ -70,4 +70,4 @@ www.setopati.com##.col-md-12.featured-images > .bigyaapan-item.media
 www.setopati.com##.insert-ad
 www.setopati.com##.a-item.meda
 www.setopati.com##.editor-box > .items
-www.setopati.com##.bottom-bigyaapan.row
+www.setopati.com##.bottom-bigyaapan.rowgs
