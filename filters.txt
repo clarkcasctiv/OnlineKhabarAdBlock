@@ -29,3 +29,45 @@ english.onlinekhabar.com##.top-section > .clearfix.centralizer > aside
 
 ! 1/7/2020 https://www.onlinekhabar.com
 www.onlinekhabar.com##.okam-device-desktop.entertainment-after-trending.okam-ad-position-wrap
+
+
+! 1/21/2020 https://ratopati.com
+ratopati.com##div.wrapper:nth-of-type(3) > div:nth-of-type(3)
+ratopati.com##div.wrapper:nth-of-type(3) > div:nth-of-type(5)
+ratopati.com##div.row:nth-of-type(8) > .col-md-3
+ratopati.com##div.row:nth-of-type(8) > .col-md-9 > div:nth-of-type(3)
+ratopati.com##div.wrapper:nth-of-type(3) > div:nth-of-type(9)
+ratopati.com##div.wrapper:nth-of-type(3) > div:nth-of-type(12)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(14) > .row
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(15) > .row
+ratopati.com##div:nth-of-type(16) > .wrapper
+ratopati.com##div.row:nth-of-type(3) > .col-md-3
+ratopati.com##div.wrapper:nth-of-type(8)
+ratopati.com##div.wrapper:nth-of-type(9) > .hidden-sm.hidden-xs > .row
+ratopati.com##.pull-right.header-blocks-aspace
+ratopati.com##.wrapper > .col-md-12
+ratopati.com##.article-head > .col-md-12
+ratopati.com##.col-md-3 > div.row:nth-of-type(1)
+ratopati.com##.ot-material-card-content > .row > .col-md-12
+ratopati.com##div.paraAd.row:nth-of-type(1)
+ratopati.com##div.detailbannerAd.paraAd.row:nth-of-type(2)
+ratopati.com##div.detailbannerAd.paraAd.row:nth-of-type(3)
+ratopati.com##div.detailbannerAd.paraAd.row:nth-of-type(4)
+ratopati.com##div.detailbannerAd.paraAd.row:nth-of-type(5)
+ratopati.com##div.detailbannerAd.paraAd.row:nth-of-type(6)
+ratopati.com##.col-md-3 > div.row:nth-of-type(4)
+ratopati.com##div.ot-content-block:nth-of-type(1) > div:nth-of-type(2)
+
+
+! 1/21/2020 https://www.setopati.com
+www.setopati.com##.mast-head.col-md-12
+www.setopati.com##.col-md-12.desktop-bottom-bigyaapan.full-bigyaapan
+www.setopati.com##.breaking-bigyapan.section
+www.setopati.com##.col-md-3.col-sm-4.right-side
+www.setopati.com##.bishesh-section.common-section.section > .section
+www.setopati.com##.kinmel-section.common-section.section > .section
+www.setopati.com##.col-md-12.featured-images > .bigyaapan-item.media
+www.setopati.com##.insert-ad
+www.setopati.com##.a-item.meda
+www.setopati.com##.editor-box > .items
+www.setopati.com##.bottom-bigyaapan.row
